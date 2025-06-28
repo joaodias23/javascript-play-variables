@@ -1,1 +1,1 @@
-# javascript-play-variables
+This mini project demonstrates how to dynamically update CSS variables using JavaScript. Users can interactively change image spacing, blur, and base color via range sliders and a color picker.
